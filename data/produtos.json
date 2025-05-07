@@ -1,0 +1,14 @@
+[
+    {
+        "nome": "Test1",
+        "preco": 999.99
+    },
+    {
+        "nome": "Test2",
+        "preco": 10.0
+    },
+    {
+        "nome": "Test3",
+        "preco": 9.0
+    }
+]
